@@ -5,3 +5,7 @@ Formation GIT  en cours
 
 jjcfsjfljfdsljfdsljsfd
 ljsdfljfdslmjfdjlfdsjlkfdjs
+
+2eme modif pour tester le git diff
+3eme modif (git graph)
+MODIF avant git checkout
