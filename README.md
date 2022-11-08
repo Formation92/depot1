@@ -22,3 +22,4 @@ MODIF exemple stash
 Modif 2
 
 Modif sur la branche fonc1
+Modif 2 sur la branche fonc1
