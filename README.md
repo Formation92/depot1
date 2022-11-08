@@ -22,3 +22,5 @@ MODIF exemple stash
 Modif 2
 
 Modif sur la branche fonc1
+
+Modif à pusher sur le serveur
