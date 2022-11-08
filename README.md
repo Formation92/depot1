@@ -16,3 +16,6 @@ MODIF 3 pour REBASE
 -------------------
 MODIF 4 pour REBASE
 MODIF 5 pour REBASE
+
+-------
+MODIF exemple stash
