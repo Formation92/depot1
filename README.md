@@ -22,4 +22,3 @@ MODIF exemple stash
 Modif 2
 
 Modif sur la branche fonc1
-Modif sur master
