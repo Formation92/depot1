@@ -1,0 +1,4 @@
+fichier_a_*.txt
+index.base
+.gitignore
+*.bash
